@@ -1,6 +1,6 @@
 ## Hi there 👋 I am passionate Data Analytics Learner
 
-- 🌱 I’m currently learning Data Analytics tools Tableau
+- 🌱 I’m currently learning Data Analytics tools
 - 📫 How to reach me:  shraddhachivadshetti@gmail.com
 - 👨‍💻 All of my projects are available at https://github.com/Shraddha2486
 <a href="https://www.linkedin.com/in/shraddha-chivadshetti">
