@@ -1,5 +1,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Shraddha2486&label=Profile%20views&color=blueviolet&style=flat)
-
+<img
+  align="right"
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  width="350"
+/>
 #### Hi👋there.
 #### About me
 - Tech learner | Data • Automation • Testing  
@@ -16,7 +20,8 @@
   <img src="https://img.icons8.com/?size=50&id=QeIg9siFKGgp&format=png" width="40" height="40" alt="MySQL"/>&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/50/microsoft-excel-2019.png" width="40" height="40" alt="Excel"/>&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/50/power-bi.png" width="40" height="40" alt="Power BI"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/50/selenium-test-automation.png" width="40" height="40" alt="Selenium"/>
+  <img src="https://img.icons8.com/color/50/selenium-test-automation.png" width="40" height="40" alt="Selenium"/>&nbsp;&nbsp;
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="35" height="35" alt="Postman"/>
 </p>
 
 
